@@ -37,8 +37,8 @@ namespace SpatialCheckTray
                 Icon = Resources.AppIcon,
                 Text = "Spatial Check",
                 ContextMenu = new ContextMenu(new MenuItem[] {
-                new MenuItem("Exit", Exit),
-                new MenuItem("Check", Check)
+                new MenuItem("Check", Check),
+                new MenuItem("Exit", Exit)
             }),
                 Visible = true
             };
