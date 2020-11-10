@@ -4,7 +4,7 @@ A small application for notifying the user if Spatial Sound is turned off on sta
 ![Screenshot](screenshot.png)
 
 # Installation
-- Download the Release files and move them to a permanent location (e.g. `Program Files\Spatial Check`)
+- Download the [Release file](https://github.com/andersfischernielsen/Spatial-Check/releases/latest), unzip it and move the extracted files to a safe location (e.g. `Program Files\Spatial Check`)
 - Create a shortcut to `SpatialCheckTray.exe`
 - Move the shortcut to `%AppData%\Microsoft\Windows\Start Menu\Programs\Startup` in order to check whether spatial audio is enabled at Windows startup
 
