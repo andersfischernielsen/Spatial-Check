@@ -1,9 +1,7 @@
 # Spatial Check
 A small application for notifying the user if Spatial Sound is turned off on startup on Windows 10.
 
-<p align="center">
-<img src="screenshot.png"/>
-</p>
+![Screenshot](screenshot.png)
 
 # Installation
 - Download the Release files and move them to a permanent location (e.g. `Program Files\Spatial Check`)
