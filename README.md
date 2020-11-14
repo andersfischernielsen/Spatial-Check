@@ -14,4 +14,6 @@ A small application for notifying the user if Spatial Sound is turned off on sta
 
 alternatively build using `MSBuild` with an appropriate target. 
 
+This project was heavily inspired by the awesome [XB1ControllerBatteryIndicator](https://github.com/NiyaShy/XB1ControllerBatteryIndicator) by NiyaShy. 
+
 <a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc/4.0/80x15.png" /></a>
