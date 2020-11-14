@@ -4,7 +4,7 @@ A small application for notifying the user if Spatial Sound is turned off on sta
 ![Screenshot](screenshot.png)
 
 # Installation
-- Download the [Release file](https://github.com/andersfischernielsen/Spatial-Check/releases/latest), unzip it and move the extracted files to a safe location (e.g. `Program Files\Spatial Check`)
+- Download the [Release file](https://github.com/andersfischernielsen/Spatial-Check/releases/latest), unzip it and move the file to a safe location (e.g. `Program Files\Spatial Check`)
 - Double-click the application
 
 # Build
